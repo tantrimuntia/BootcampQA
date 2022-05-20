@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_All rights reserved_sc-1crxk01-0 imebcy_9f09c5</name>
+   <tag></tag>
+   <elementGuidId>525b5075-b0a4-44e0-94c7-3821472111c0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.sc-1crxk01-0.imebcy.sc-22dkih-1.gblrJB</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='portal']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9a42539f-4af2-4444-aa88-dca5b9017563</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-1crxk01-0 imebcy sc-22dkih-1 gblrJB</value>
+      <webElementGuid>ee38a47d-26a8-4bd9-ae3d-6d20ec063478</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;portal&quot;)/div[@class=&quot;sc-1crxk01-0 imebcy sc-22dkih-1 gblrJB&quot;]</value>
+      <webElementGuid>51cb62db-7945-4d5f-beb4-b6af7dab80a7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='portal']/div</value>
+      <webElementGuid>3ec157ee-5246-41b9-8ba6-662f7a6b0195</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body/div/div</value>
+      <webElementGuid>dbdb2a24-b2fc-4794-9e32-43f44a5dbef6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

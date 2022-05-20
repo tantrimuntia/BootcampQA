@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a</name>
+   <tag></tag>
+   <elementGuidId>355ea43d-1d40-4f39-b3b1-45e6c838bbfd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='app']/div/div/section/div/div/div[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>cca7388d-aafd-4ac7-9ca3-cd88ce50849b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/settings</value>
+      <webElementGuid>4a1ef3b2-99d4-4e84-ad8f-e460b583e3dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[1]/div[@class=&quot;sc-hl1k4c-0 leYhlM&quot;]/section[@class=&quot;sc-hl1k4c-1 bzYZkx&quot;]/div[@class=&quot;sc-15itbtn-7 kKDiMz&quot;]/div[@class=&quot;sc-15itbtn-9 kYvRFJ&quot;]/div[@class=&quot;sc-1crxk01-0 ikVDqn&quot;]/a[1]</value>
+      <webElementGuid>355facb1-7f6e-47bd-8cde-c85e4b58cf77</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='app']/div/div/section/div/div/div[2]/a</value>
+      <webElementGuid>c6bf9750-a9c4-4e08-a47e-7bc579959b1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bronze'])[1]/following::a[1]</value>
+      <webElementGuid>ec00cfee-2fe8-4057-a9d3-a3dc4eddb9e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AC'])[2]/following::a[1]</value>
+      <webElementGuid>f202a579-117e-45bb-a336-86c899e274d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Poin Saya'])[1]/preceding::a[1]</value>
+      <webElementGuid>09bec182-1d47-4177-b423-c3af78ce2eba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bagikan'])[1]/preceding::a[2]</value>
+      <webElementGuid>e7c92ff5-29c5-46d7-af78-266310a65d16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/settings')]</value>
+      <webElementGuid>b5e1387f-a3b1-4c53-8838-2d7279447eba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a</value>
+      <webElementGuid>3d03caac-fd71-47dd-9460-38bd56234e2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/settings']</value>
+      <webElementGuid>a9d91f29-62ed-4e4c-9e1f-ada619b1e43e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

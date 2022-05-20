@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Bisnis_sc-1hxhqap-2 jOfcLH</name>
+   <tag></tag>
+   <elementGuidId>759ddd6f-3cb9-451e-9c36-032cd14cccc0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='app']/div/div/section/section/div/div[5]/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>f8554cb6-600c-4b50-adb7-36ca4760dcd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://newb2c.astraotoparts.co.id/asset/aop/lainnya.png</value>
+      <webElementGuid>f55ca2db-e528-4532-bdcd-3b367d3405d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-1hxhqap-2 jOfcLH</value>
+      <webElementGuid>be2be070-9195-441a-8793-9858cf828b2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[1]/div[@class=&quot;sc-1dze5zo-0 lnpKeT&quot;]/section[@class=&quot;sc-1dze5zo-1 imPRYC&quot;]/section[@class=&quot;sc-60zcpy-1 klCJsD&quot;]/div[@class=&quot;sc-1crxk01-0 ksZDNo sc-10b1rua-3 hRIagK&quot;]/div[@class=&quot;sc-1crxk01-0 gepUjx sc-1hxhqap-0 fFaRKu&quot;]/div[@class=&quot;sc-1hxhqap-3 btnGPj&quot;]/img[@class=&quot;sc-1hxhqap-2 jOfcLH&quot;]</value>
+      <webElementGuid>d409fe49-6897-4842-8fc4-fc903fff31df</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='app']/div/div/section/section/div/div[5]/div/img</value>
+      <webElementGuid>631d735a-3d67-43ed-b7da-8e3bd1691589</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://newb2c.astraotoparts.co.id/asset/aop/lainnya.png')]</value>
+      <webElementGuid>9329097c-f739-4e9f-b254-1f433ae1f7d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/img</value>
+      <webElementGuid>ac756e61-7d74-4294-8acb-2cbb94081707</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://newb2c.astraotoparts.co.id/asset/aop/lainnya.png']</value>
+      <webElementGuid>3c825120-0b2e-4373-a5a4-93f40e55cd28</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

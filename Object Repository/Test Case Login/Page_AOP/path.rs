@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>63c34bd5-8e48-4899-8ad8-3ba2dfa9e2b2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#nav-item-3 > span.sc-rq82e3-0.mzbNL > svg > path</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>4f4a687a-5e96-482a-8a4c-2cbd204bacdf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M23.3813 20.5963C23.1248 20.8529 23.1248 21.2683 23.3813 21.5243C23.638 21.7808 24.0533 21.7808 24.3093 21.5243L28.8368 16.9961C28.9733 16.8596 29.0317 16.6778 29.0225 16.4993C29.0317 16.3202 28.9733 16.1391 28.8368 16.0026L24.3093 11.4751C24.0533 11.2185 23.6373 11.2185 23.3813 11.4751C23.1248 11.7317 23.1248 12.1471 23.3813 12.403L26.8221 15.8437H12.6563C12.294 15.8438 12 16.1378 12 16.5C12 16.8623 12.294 17.1563 12.6563 17.1563H26.8221L23.3813 20.5963ZM30.375 7.3125H17.25C15.8003 7.3125 14.625 8.48785 14.625 9.9375V12.5625H15.9375V9.9375C15.9375 9.213 16.5248 8.625 17.25 8.625H30.375C31.1002 8.625 31.6875 9.213 31.6875 9.9375V23.0625C31.6875 23.787 31.1002 24.375 30.375 24.375H17.25C16.5248 24.375 15.9375 23.7877 15.9375 23.0625V20.4375H14.625V23.0625C14.625 24.5122 15.8003 25.6875 17.25 25.6875H30.375C31.8247 25.6875 33 24.5122 33 23.0625V9.9375C33 8.48785 31.8247 7.3125 30.375 7.3125Z</value>
+      <webElementGuid>467bd87f-c24f-4cda-8a07-b74c01da5356</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>#575455</value>
+      <webElementGuid>c89c3fdc-4831-49d2-bb5d-b6d7c1c5018c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-item-3&quot;)/span[@class=&quot;sc-rq82e3-0 mzbNL&quot;]/svg[1]/path[1]</value>
+      <webElementGuid>7f5eaabe-8f63-46b9-9601-ef1c24412528</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

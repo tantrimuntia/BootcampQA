@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Stok tersedia_sc-dfsrp1-17 dGwcMx</name>
+   <tag></tag>
+   <elementGuidId>5396741b-5fa8-465d-ba8c-2f1c9a2d28d7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='app']/div/div/section/section/div[14]/div/div[2]/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>5525334f-f6a1-42c4-866b-7f73f21338ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://newb2c.astraotoparts.co.id/asset/product/import/h/o/horn_ver_2.png</value>
+      <webElementGuid>2784d412-6fd8-4e78-9da6-54aac8da7e92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Product Item</value>
+      <webElementGuid>7331ceb7-9449-49c0-b33e-c148a0d98843</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-dfsrp1-17 dGwcMx</value>
+      <webElementGuid>d44ed7fd-f67a-41b5-acca-e31af8cbcbc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[1]/div[@class=&quot;sc-1dze5zo-0 lnpKeT&quot;]/section[@class=&quot;sc-1dze5zo-1 imPRYC&quot;]/section[@class=&quot;sc-60zcpy-1 klCJsD&quot;]/div[@class=&quot;sc-1sdj1hu-0 fzrVlg&quot;]/div[@class=&quot;sc-1sdj1hu-1 bIHNeP scroll-container indiana-scroll-container&quot;]/div[@class=&quot;sc-1crxk01-0 lkwwJy sc-dfsrp1-1 cOOIyQ&quot;]/div[@class=&quot;sc-dfsrp1-16 aUZEl&quot;]/img[@class=&quot;sc-dfsrp1-17 dGwcMx&quot;]</value>
+      <webElementGuid>b95470ec-1070-408d-9a4f-75ad97d90616</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='app']/div/div/section/section/div[14]/div/div[2]/div/img</value>
+      <webElementGuid>fe238003-ec78-40bc-b0a9-a33c8059a3aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='Product Item'])[11]</value>
+      <webElementGuid>db66b14e-f2a2-4178-8c6d-5f17a67a2e14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[14]/div/div[2]/div/img</value>
+      <webElementGuid>b24a2b04-96b5-4b10-a95d-ac6dfc3aa337</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://newb2c.astraotoparts.co.id/asset/product/import/h/o/horn_ver_2.png' and @alt = 'Product Item']</value>
+      <webElementGuid>42e2d594-8970-4625-ab93-4e5a72f2b8c4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
